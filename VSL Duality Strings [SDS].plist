@@ -1,0 +1,2079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Articulations</key>
+	<array>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>1</integer>
+			<key>ID</key>
+			<integer>1001</integer>
+			<key>Name</key>
+			<string>#1 Spiccato Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Staccatissimo</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>2</integer>
+			<key>ID</key>
+			<integer>1002</integer>
+			<key>Name</key>
+			<string>#2 Spicc. tight Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Staccatissimo</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>3</integer>
+			<key>ID</key>
+			<integer>1003</integer>
+			<key>Name</key>
+			<string>#3 Staccato Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Staccato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>4</integer>
+			<key>ID</key>
+			<integer>1004</integer>
+			<key>Name</key>
+			<string>#4 Détaché Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>5</integer>
+			<key>ID</key>
+			<integer>1005</integer>
+			<key>Name</key>
+			<string>#5 Dét. marc. Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>6</integer>
+			<key>ID</key>
+			<integer>1006</integer>
+			<key>Name</key>
+			<string>#6 Dét. soft Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>17</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+			<dict>
+			<key>ArticulationID</key>
+			<integer>7</integer>
+			<key>ID</key>
+			<integer>1041</integer>
+			<key>Name</key>
+			<string>#7 Staccato Hard Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>18</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Staccato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>8</integer>
+			<key>ID</key>
+			<integer>1042</integer>
+			<key>Name</key>
+			<string>#8 Martele Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>19</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>9</integer>
+			<key>ID</key>
+			<integer>1043</integer>
+			<key>Name</key>
+			<string>#9 Ricochet 1-4(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>20</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		
+		<dict>
+			<key>ArticulationID</key>
+			<integer>10</integer>
+			<key>ID</key>
+			<integer>1062</integer>
+			<key>Name</key>
+			<string>#10 Saltando</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>21</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>11</integer>
+			<key>ID</key>
+			<integer>1008</integer>
+			<key>Name</key>
+			<string>#11 Long Espr Rel(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>1</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>20</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>12</integer>
+			<key>ID</key>
+			<integer>1009</integer>
+			<key>Name</key>
+			<string>#12 Long Swell Rel(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>1</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>21</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fall Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>13</integer>
+			<key>ID</key>
+			<integer>1044</integer>
+			<key>Name</key>
+			<string>#13 Dyn Cresc Len(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>1</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>24</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fall Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>14</integer>
+			<key>ID</key>
+			<integer>1045</integer>
+			<key>Name</key>
+			<string>#14 Dyn Dimin Len(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>1</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>25</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fall Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>15</integer>
+			<key>ID</key>
+			<integer>1007</integer>
+			<key>Name</key>
+			<string>#15 Long Vib(21) Rel(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>1</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>19</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>20</integer>
+			<key>ID</key>
+			<integer>1010</integer>
+			<key>Name</key>
+			<string>#20 Leg Agile Vib(21) Rel(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>21</integer>
+			<key>ID</key>
+			<integer>1011</integer>
+			<key>Name</key>
+			<string>#21 Leg Auto Vib(21) Rel(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>22</integer>
+			<key>ID</key>
+			<integer>1012</integer>
+			<key>Name</key>
+			<string>#22 Leg Slur Vib(21) Rel(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>19</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>23</integer>
+			<key>ID</key>
+			<integer>1013</integer>
+			<key>Name</key>
+			<string>#23 Leg Slur Espr Rel(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>20</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>24</integer>
+			<key>ID</key>
+			<integer>1014</integer>
+			<key>Name</key>
+			<string>#24 Leg Porta Vib(21) Rel(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>19</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>25</integer>
+			<key>ID</key>
+			<integer>1015</integer>
+			<key>Name</key>
+			<string>#25 Leg Porta Espr Rel(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>2</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>20</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Tenuto</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>30</integer>
+			<key>ID</key>
+			<integer>1016</integer>
+			<key>Name</key>
+			<string>#30 Trem Fast NLS(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>3</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>31</integer>
+			<key>ID</key>
+			<integer>1017</integer>
+			<key>Name</key>
+			<string>#31 Trem Slow NLS(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>3</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>32</integer>
+			<key>ID</key>
+			<integer>1018</integer>
+			<key>Name</key>
+			<string>#32 Trem SlowFast(21) NLS(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>3</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>33</integer>
+			<key>ID</key>
+			<integer>1019</integer>
+			<key>Name</key>
+			<string>#33 Trem LngFast(21) NLS(3) Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>3</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>34</integer>
+			<key>ID</key>
+			<integer>1020</integer>
+			<key>Name</key>
+			<string>#34 Trem Meas 120/130/140/160/180(21) NLSC(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>3</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>35</integer>
+			<key>ID</key>
+			<integer>1025</integer>
+			<key>Name</key>
+			<string>#35 Trill HT NLS(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>4</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>19</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>36</integer>
+			<key>ID</key>
+			<integer>1026</integer>
+			<key>Name</key>
+			<string>#36 Trill WT NLS(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>4</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>20</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>37</integer>
+			<key>ID</key>
+			<integer>1027</integer>
+			<key>Name</key>
+			<string>#37 Trill m3 NLS(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>4</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>21</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>38</integer>
+			<key>ID</key>
+			<integer>1028</integer>
+			<key>Name</key>
+			<string>#38 Trill M3 NLS(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>4</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>22</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Up</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>40</integer>
+			<key>ID</key>
+			<integer>1029</integer>
+			<key>Name</key>
+			<string>#40 Pizz Ag/Bd(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>5</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Pizzicato (Left Hand)</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>41</integer>
+			<key>ID</key>
+			<integer>1030</integer>
+			<key>Name</key>
+			<string>#41 Pizz Bartok Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>5</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Pizzicato (Left Hand)</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>42</integer>
+			<key>ID</key>
+			<integer>1031</integer>
+			<key>Name</key>
+			<string>#42 Col Legno Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>5</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Pizzicato (Left Hand)</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>50</integer>
+			<key>ID</key>
+			<integer>1032</integer>
+			<key>Name</key>
+			<string>#50 Harm Long Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>6</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Soft</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>51</integer>
+			<key>ID</key>
+			<integer>1033</integer>
+			<key>Name</key>
+			<string>#51 Harm Trem Atk(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>6</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Soft</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>52</integer>
+			<key>ID</key>
+			<integer>1034</integer>
+			<key>Name</key>
+			<string>#52 Harm Lng&gt;Trem(21)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>6</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Soft</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>53</integer>
+			<key>ID</key>
+			<integer>1035</integer>
+			<key>Name</key>
+			<string>#53 Harm Lng&gt;Harm(21)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>6</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Soft</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>54</integer>
+			<key>ID</key>
+			<integer>1036</integer>
+			<key>Name</key>
+			<string>#54 Harm Stacc Bd/Ag(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>6</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>17</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Soft</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>60</integer>
+			<key>ID</key>
+			<integer>1037</integer>
+			<key>Name</key>
+			<string>#60 Gliss VFa/Fa/Sl/VSl(21) 12/5/2(3) U/D(V) SFtrg(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>7</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Left Hand</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>61</integer>
+			<key>ID</key>
+			<integer>1038</integer>
+			<key>Name</key>
+			<string>#61 Gliss Trem VFa/Fa/Sl/VSl(21) 12/5/2(3) U/D(V) SFtrg(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>7</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Left Hand</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>62</integer>
+			<key>ID</key>
+			<integer>1046</integer>
+			<key>Name</key>
+			<string>#62 Gliss Saltando U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>7</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Left Hand</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>63</integer>
+			<key>ID</key>
+			<integer>1049</integer>
+			<key>Name</key>
+			<string>#63 Rise Fall Short U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>9</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Doit Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>64</integer>
+			<key>ID</key>
+			<integer>1050</integer>
+			<key>Name</key>
+			<string>#64 Rise Fall Dét U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>9</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Doit Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>65</integer>
+			<key>ID</key>
+			<integer>1051</integer>
+			<key>Name</key>
+			<string>#65 Rise Fall Sust U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>9</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Doit Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>66</integer>
+			<key>ID</key>
+			<integer>1052</integer>
+			<key>Name</key>
+			<string>#66 Rise Fall Cresc U/D(V) Len(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>9</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Doit Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>67</integer>
+			<key>ID</key>
+			<integer>1053</integer>
+			<key>Name</key>
+			<string>#67 Rise Fall Dimin U/D(V) Len(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>9</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Doit Short</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>70</integer>
+			<key>ID</key>
+			<integer>1039</integer>
+			<key>Name</key>
+			<string>#70 Runs Leg 12/5/3M/3C(3) Key(C6) U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>8</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Right Hand</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>71</integer>
+			<key>ID</key>
+			<integer>1040</integer>
+			<key>Name</key>
+			<string>#71 Runs Deta 12/5/3M/3C(3) Key(C6) U/D(V)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>8</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Right Hand</string>
+		</dict>
+	
+		
+		<dict>
+			<key>ArticulationID</key>
+			<integer>72</integer>
+			<key>ID</key>
+			<integer>1047</integer>
+			<key>Name</key>
+			<string>#72 Runs Leg Chroma 12/5/2(3) U/D/Lp(V) Rel(21)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>8</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Right Hand</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>73</integer>
+			<key>ID</key>
+			<integer>1048</integer>
+			<key>Name</key>
+			<string>#73 Runs Dét Chroma 12/5/2(3) U/D/Lp(V) Rel(21)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>8</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Right Hand</string>
+		</dict>
+		
+		<dict>
+			<key>ArticulationID</key>
+			<integer>80</integer>
+			<key>ID</key>
+			<integer>1054</integer>
+			<key>Name</key>
+			<string>#80 Arp Chord Chrd(C8-F8)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>10</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>12</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Down</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>81</integer>
+			<key>ID</key>
+			<integer>1055</integer>
+			<key>Name</key>
+			<string>#81 Arp Pizz Chrd(C8-F8)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>10</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>13</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Down</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>82</integer>
+			<key>ID</key>
+			<integer>1056</integer>
+			<key>Name</key>
+			<string>#82 Arp Up Chrd(C8-F8)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>10</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>14</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Down</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>83</integer>
+			<key>ID</key>
+			<integer>1057</integer>
+			<key>Name</key>
+			<string>#83 Arp Dn Chrd(C8-F8)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>10</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>15</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Down</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>84</integer>
+			<key>ID</key>
+			<integer>1058</integer>
+			<key>Name</key>
+			<string>#84 Arp Loop 120/130/140/160(21) Chrd(C8-F8) Rel(3)</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>10</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+				<dict>
+					<key>MB1</key>
+					<integer>16</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+			<key>Symbol</key>
+			<string>Fermata Down</string>
+		</dict>
+
+	</array>
+	<key>MultipleOutputsActive</key>
+	<true/>
+	<key>Name</key>
+	<string>VSL Duality Strings [SDS].plist</string>
+	<key>Switches</key>
+	<array>
+		<dict>
+			<key>ID</key>
+			<integer>1001</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>1</integer>
+			<key>ValueLow</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1002</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>2</integer>
+			<key>ValueLow</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1003</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>3</integer>
+			<key>ValueLow</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1004</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>4</integer>
+			<key>ValueLow</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1005</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>5</integer>
+			<key>ValueLow</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1006</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>6</integer>
+			<key>ValueLow</key>
+			<integer>6</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1007</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>15</integer>
+			<key>ValueLow</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1008</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>11</integer>
+			<key>ValueLow</key>
+			<integer>11</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1009</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>12</integer>
+			<key>ValueLow</key>
+			<integer>12</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1010</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>20</integer>
+			<key>ValueLow</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1011</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>21</integer>
+			<key>ValueLow</key>
+			<integer>21</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1012</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>22</integer>
+			<key>ValueLow</key>
+			<integer>22</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1013</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>23</integer>
+			<key>ValueLow</key>
+			<integer>23</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1014</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>24</integer>
+			<key>ValueLow</key>
+			<integer>24</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1015</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>25</integer>
+			<key>ValueLow</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1016</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>30</integer>
+			<key>ValueLow</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1017</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>31</integer>
+			<key>ValueLow</key>
+			<integer>31</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1018</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>32</integer>
+			<key>ValueLow</key>
+			<integer>32</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1019</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>33</integer>
+			<key>ValueLow</key>
+			<integer>33</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1020</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>34</integer>
+			<key>ValueLow</key>
+			<integer>34</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1025</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>35</integer>
+			<key>ValueLow</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1026</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>36</integer>
+			<key>ValueLow</key>
+			<integer>36</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1027</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>37</integer>
+			<key>ValueLow</key>
+			<integer>37</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1028</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>38</integer>
+			<key>ValueLow</key>
+			<integer>38</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1029</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>40</integer>
+			<key>ValueLow</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1030</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>41</integer>
+			<key>ValueLow</key>
+			<integer>41</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1031</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>42</integer>
+			<key>ValueLow</key>
+			<integer>42</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1032</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>50</integer>
+			<key>ValueLow</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1033</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>51</integer>
+			<key>ValueLow</key>
+			<integer>51</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1034</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>52</integer>
+			<key>ValueLow</key>
+			<integer>52</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1035</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>53</integer>
+			<key>ValueLow</key>
+			<integer>53</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1036</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>54</integer>
+			<key>ValueLow</key>
+			<integer>54</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1037</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>60</integer>
+			<key>ValueLow</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1038</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>61</integer>
+			<key>ValueLow</key>
+			<integer>61</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1039</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>70</integer>
+			<key>ValueLow</key>
+			<integer>70</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1040</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>71</integer>
+			<key>ValueLow</key>
+			<integer>71</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1041</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>7</integer>
+			<key>ValueLow</key>
+			<integer>7</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1042</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>8</integer>
+			<key>ValueLow</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1043</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>9</integer>
+			<key>ValueLow</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1062</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>10</integer>
+			<key>ValueLow</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1044</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>13</integer>
+			<key>ValueLow</key>
+			<integer>13</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1045</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>14</integer>
+			<key>ValueLow</key>
+			<integer>14</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1046</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>62</integer>
+			<key>ValueLow</key>
+			<integer>62</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1047</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>72</integer>
+			<key>ValueLow</key>
+			<integer>72</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1048</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>73</integer>
+			<key>ValueLow</key>
+			<integer>73</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1049</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>63</integer>
+			<key>ValueLow</key>
+			<integer>63</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1050</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>64</integer>
+			<key>ValueLow</key>
+			<integer>64</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1051</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>65</integer>
+			<key>ValueLow</key>
+			<integer>65</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1052</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>66</integer>
+			<key>ValueLow</key>
+			<integer>66</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1053</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>67</integer>
+			<key>ValueLow</key>
+			<integer>67</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1054</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>80</integer>
+			<key>ValueLow</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1055</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>81</integer>
+			<key>ValueLow</key>
+			<integer>81</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1056</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>82</integer>
+			<key>ValueLow</key>
+			<integer>82</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1057</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>83</integer>
+			<key>ValueLow</key>
+			<integer>83</integer>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<integer>1058</integer>
+			<key>MB1</key>
+			<integer>32</integer>
+			<key>Status</key>
+			<string>Controller</string>
+			<key>ValueHigh</key>
+			<integer>84</integer>
+			<key>ValueLow</key>
+			<integer>84</integer>
+		</dict>
+		
+	</array>
+</dict>
+</plist>
